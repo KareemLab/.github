@@ -1,2 +1,5 @@
-# .github
-Portfolio KAREEM DEVOPS STARTER LAB — Infrastructure Cloud, Terraform, Ansible, Docker et CI/CD avec GitHub Actions.
+# KAREEM DEVOPS STARTER LAB
+
+Projet DevOps — Infrastructures cloud, automatisation et pipelines CI/CD.
+
+Pour découvrir le projet, consultez la [présentation de l'organisation](profile/README.md).
