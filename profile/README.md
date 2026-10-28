@@ -1,6 +1,6 @@
 # KAREEM DEVOPS STARTER LAB
 
-### Portfolio DevOps — Infrastructure, Cloud et CI/CD
+### Projet DevOps — Infrastructure, Cloud et CI/CD
 
 Bienvenue sur **KareemLab**, une organisation GitHub dédiée à la présentation de mon projet réalisé dans le cadre de ma formation DevOps chez **O'clock**.
 
@@ -67,9 +67,9 @@ Dans le cadre de la présentation de mon projet DevOps, les dépôts de cette or
 
 À l'issue de cette période de présentation, les dépôts retrouveront leur visibilité privée.
 
-## Objectif du portfolio
+## Objectif du projet
 
-Ce portfolio présente les compétences techniques développées et mises en pratique au cours de ma formation DevOps.
+Ce projet présente les compétences techniques développées et mises en pratique au cours de ma formation DevOps.
 
 Il illustre une démarche de conception, d'automatisation et d'exploitation d'infrastructures cloud, ainsi que l'intégration des outils et méthodes permettant d'accompagner une application tout au long de son cycle de livraison.
 
