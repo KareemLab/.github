@@ -8,7 +8,7 @@
 
 **KAREEM DEVOPS STARTER LAB** est un projet DevOps réalisé dans le cadre de ma formation chez **O'clock**.
 
-Il repose sur une application web de type blog, composée d'un frontend, d'un backend développé avec Symfony et d'une base de données PostgreSQL.
+Il repose sur une application web de type blog, composée d'un frontend développé avec Vue.js, d'un backend développé avec Symfony et d'une base de données PostgreSQL.
 
 L'objectif du projet est de concevoir et d'automatiser une chaîne de livraison applicative, depuis le développement et l'intégration continue jusqu'au provisionnement des infrastructures et au déploiement dans différents environnements.
 
