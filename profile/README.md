@@ -171,7 +171,7 @@ Chaque dépôt dispose de sa propre documentation permettant d'approfondir son f
 | **GitOps** | Argo CD |
 | **Supervision** | Grafana |
 | **CI/CD** | GitHub Actions |
-| **Frontend** | Vue.js, Nginx |
+| **Frontend** | Vue.js |
 | **Backend** | Symfony |
 | **Serveur web** | Nginx |
 | **Base de données** | PostgreSQL |
