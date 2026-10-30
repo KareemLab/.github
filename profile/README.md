@@ -151,7 +151,10 @@ Chaque dépôt dispose de sa propre documentation permettant d'approfondir son f
 - Exécution automatisée de contrôles sur Pull Request.
 - Validation et analyse des configurations Terraform.
 - Tests automatisés du backend avec PHPUnit.
+- Tests automatisés du frontend Vue.js avec Vitest.
+- Tests fonctionnels du backend Symfony avec Cypress.
 - Tests fonctionnels du frontend avec Cypress.
+- Analyse de la qualité du code avec SonarQube Cloud.
 - Déploiements conditionnels selon les branches et les événements GitHub Actions.
 - Transmission de métadonnées entre les pipelines de préproduction et de production.
 - Publication du frontend statique de production dans Google Cloud Storage.
@@ -171,8 +174,8 @@ Chaque dépôt dispose de sa propre documentation permettant d'approfondir son f
 | **Frontend et serveur web** | Vue.js, Nginx |
 | **Backend** | Symfony |
 | **Base de données** | PostgreSQL |
-| **Tests** | PHPUnit, Cypress |
-| **Qualité et analyse** | TFLint, Trivy, Terraform Validate |
+| **Tests** | PHPUnit, Vitest, Cypress |
+| **Qualité et analyse** | SonarQube Cloud, TFLint, Trivy, Terraform Validate |
 | **Réseau et accès cloud** | IAM, OIDC, DNS, HTTPS |
 | **Stockage** | Amazon S3, Google Cloud Storage |
 
