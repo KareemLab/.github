@@ -171,8 +171,9 @@ Chaque dépôt dispose de sa propre documentation permettant d'approfondir son f
 | **GitOps** | Argo CD |
 | **Supervision** | Grafana |
 | **CI/CD** | GitHub Actions |
-| **Frontend et serveur web** | Vue.js, Nginx |
+| **Frontend** | Vue.js, Nginx |
 | **Backend** | Symfony |
+| **Serveur web** | Nginx |
 | **Base de données** | PostgreSQL |
 | **Tests** | PHPUnit, Vitest, Cypress |
 | **Qualité et analyse** | SonarQube Cloud, TFLint, Trivy, Terraform Validate |
