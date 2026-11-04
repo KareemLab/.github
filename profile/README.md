@@ -153,7 +153,7 @@ Chaque dépôt dispose de sa propre documentation permettant d'approfondir son f
 - Tests automatisés du backend avec PHPUnit.
 - Tests automatisés du frontend Vue.js avec Vitest.
 - Tests fonctionnels du backend Symfony avec Cypress.
-- Tests fonctionnels du frontend avec Cypress.
+- Tests fonctionnels du frontend Vue.js avec Cypress.
 - Analyse de la qualité du code avec SonarQube Cloud.
 - Déploiements conditionnels selon les branches et les événements GitHub Actions.
 - Transmission de métadonnées entre les pipelines de préproduction et de production.
